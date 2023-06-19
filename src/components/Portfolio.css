@@ -1,0 +1,136 @@
+/* Portfolio.css */
+
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Navigation styles */
+  nav {
+    background-color: #222;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin-right: 10px;
+  }
+  
+  nav button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    width: 200px;
+    cursor: pointer;
+    padding: 5px 10px;
+    transition: color 0.3s ease;
+  }
+  
+  nav button:hover {
+    color: #ddd;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  section h2 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #f40c84;
+  }
+  
+  section p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #e0dcdc;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }.section {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+  }
+  
+  .section-left,
+  .section-right {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+  }
+  .circular-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card {
+    flex: 1;
+    max-width: 400px; /* Adjust the width as needed */
+    margin: 10px;
+    background-color: cyan;
+  }
+  .skills-section {
+    padding: 0rem;
+  }
+  
+  .skills-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  
+  .skill-item {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+  }
+  
+  .skill-item img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
