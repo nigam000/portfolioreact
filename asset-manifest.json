@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/word-counter/static/css/main.9abc4bc0.css",
-    "main.js": "/word-counter/static/js/main.6c9e112c.js",
-    "static/js/787.719ec76d.chunk.js": "/word-counter/static/js/787.719ec76d.chunk.js",
-    "static/media/my_pic.jpg": "/word-counter/static/media/my_pic.ef9604edbc97eed30459.jpg",
-    "static/media/python1.png": "/word-counter/static/media/python1.ff4186300b523ba85b20.png",
-    "index.html": "/word-counter/index.html",
-    "main.9abc4bc0.css.map": "/word-counter/static/css/main.9abc4bc0.css.map",
-    "main.6c9e112c.js.map": "/word-counter/static/js/main.6c9e112c.js.map",
-    "787.719ec76d.chunk.js.map": "/word-counter/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/portfolioreact/static/css/main.9abc4bc0.css",
+    "main.js": "/portfolioreact/static/js/main.85aff27c.js",
+    "static/js/787.719ec76d.chunk.js": "/portfolioreact/static/js/787.719ec76d.chunk.js",
+    "static/media/my_pic.jpg": "/portfolioreact/static/media/my_pic.ef9604edbc97eed30459.jpg",
+    "static/media/python1.png": "/portfolioreact/static/media/python1.ff4186300b523ba85b20.png",
+    "index.html": "/portfolioreact/index.html",
+    "main.9abc4bc0.css.map": "/portfolioreact/static/css/main.9abc4bc0.css.map",
+    "main.85aff27c.js.map": "/portfolioreact/static/js/main.85aff27c.js.map",
+    "787.719ec76d.chunk.js.map": "/portfolioreact/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9abc4bc0.css",
-    "static/js/main.6c9e112c.js"
+    "static/js/main.85aff27c.js"
   ]
 }
